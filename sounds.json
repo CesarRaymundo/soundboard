@@ -29,6 +29,11 @@
       "name": "Elmo Laughing",
       "color": "#FF0000",
       "mp3": "sounds/yt1s.com-Elmo-Laughing-Sound-Effect.mp3"
+    },
+    {
+      "name": "Elmo Loves You",
+      "color": "#FF0000",
+      "mp3": "sounds/Sesame Street_ Elmo Loves You-[AudioTrimmer.com].mp3"
     }
   ]
 }
