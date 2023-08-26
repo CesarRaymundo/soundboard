@@ -34,6 +34,11 @@
       "name": "Elmo Loves You",
       "color": "#FF0000",
       "mp3": "sounds/Sesame Street_ Elmo Loves You-[AudioTrimmer.com].mp3"
+    },
+    {
+      "name": "Elmo Says Hi",
+      "color": "#FF0000",
+      "mp3": "sounds/Elmo says HI.mp3"
     }
   ]
 }
